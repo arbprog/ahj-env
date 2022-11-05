@@ -1,4 +1,4 @@
-import Character from '../index';
+import Character from '../app';
 
 test('Новый персонаж', () => {
   const char = new Character('Имя', 100, 1);
